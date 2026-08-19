@@ -11,54 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **PhD in Computer Science** — Hong Kong University of Science and Technology, 2024 - Present
+  * HKUST NLP Group
+  * Supervisor: Professor Junxian He
+* **B.Eng.** — Shanghai Jiao Tong University, 2020 - 2024
+  * Graduated in June 2024
+  * Zhiyuan Honor Scholarship
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Feb 2025 - Present: Research Intern, MINIMAX
+* Jun 2024 - Sep 2024: Research Intern, Tencent WXG
+  * Supervisor: Zifei Shan
+* Jun 2023 - Dec 2023: Research Intern, Shanghai AI Laboratory
+  * Supervisor: Prof. Yu Cheng
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* LLM reasoning and reinforcement learning
+* Hallucination in vision-language models (VLMs)
+* LLM truthfulness and interpretability
+* Machine learning and natural language processing
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
